@@ -1,0 +1,16 @@
+id,name,light_years_from_earth,planet_mass,stellar_magnitude,discovery_date,hyperlink
+0,Gliese 12 b,12.21,3.87 Earths,12.6,2024,https://science.nasa.gov/exoplanet-catalog/gliese-12-b/
+1,SPECULOOS-3 b,6792.0363261718,0.894 Earths,17.8,2024,https://science.nasa.gov/exoplanet-catalog/speculoos-3-b/
+2,TOI-4633 c,95.2016,0.387 Jupiters,9.017,2024,https://science.nasa.gov/exoplanet-catalog/toi-4633-c/
+3,2MASS J0249-0557 c,66.0613,11.6 Jupiters,18.3,2018,https://science.nasa.gov/exoplanet-catalog/2mass-j0249-0557-c/
+4,TOI-815 c,59.7117,23.5 Earths,10.217,2024,https://science.nasa.gov/exoplanet-catalog/toi-815-c/
+5,TOI-815 b,59.7117,7.6 Earths,10.217,2024,https://science.nasa.gov/exoplanet-catalog/toi-815-b/
+6,TOI-4559 b,31.6354,2.59 Earths,13.115,2024,https://science.nasa.gov/exoplanet-catalog/toi-4559-b/
+7,TOI-1739 b,70.9819,3.52 Earths,10.692,2024,https://science.nasa.gov/exoplanet-catalog/toi-1739-b/
+8,Kepler-1660 AB b,1188.54,4.992 Jupiters,13.595,2023,https://science.nasa.gov/exoplanet-catalog/kepler-1660-ab-b/
+9,ITG 15 b,136.37,21 Jupiters,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/itg-15-b/
+10,TIC 139270665 c,189.875,4.89 Jupiters,10.385,2024,https://science.nasa.gov/exoplanet-catalog/tic-139270665-c/
+11,TIC 139270665 b,189.875,0.463 Jupiters,10.385,2024,https://science.nasa.gov/exoplanet-catalog/tic-139270665-b/
+12,HIP 77900 b,150.862,21 Jupiters,6.15,2024,https://science.nasa.gov/exoplanet-catalog/hip-77900-b/
+13,2MASS J11011926-7732383 b,Unknown,28 Jupiters,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/2mass-j11011926-7732383-b/
+14,G 196-3 b,21.7912,26 Jupiters,11.672,2024,https://science.nasa.gov/exoplanet-catalog/g-196-3-b/
